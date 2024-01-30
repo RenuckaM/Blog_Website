@@ -20,7 +20,7 @@ Welcome to the Coimbatore Blog Website repository! This project contains the sou
 
 To view the website:
 
-1. Visit [link to your GitHub Pages site!]() to see the live version.
+1. Visit [link to your GitHub Pages site](https://renuckam.github.io/Blog_Website/) to see the live version.
 
 To contribute or modify the code:
 
