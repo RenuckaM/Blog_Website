@@ -1,6 +1,3 @@
-# Blog_Website
-Creating a blog website using HTML and CSS3
-
 # Coimbatore Blog Website
 
 Welcome to the Coimbatore Blog Website repository! This project contains the source code for a blog website dedicated to Coimbatore, a vibrant city in Tamil Nadu, India. The website showcases various aspects of Coimbatore, including its culture, cuisine, tourist attractions, and local lifestyle.
